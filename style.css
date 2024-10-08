@@ -103,7 +103,7 @@ grid-gap: 20px;
   overflow: hidden;
   border: 10px solid #fff;
 
-  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+  background-image: linear-gradient(to top, #ebc0fd 0%, #d9ded8 100%);
 
   animation: ava_animate 5s infinite alternate;
   box-shadow: 2px 5px 10px rgba(0, 0, 0, .5);
